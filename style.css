@@ -1,0 +1,51 @@
+body{
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.conteiner {
+  width: 500px;
+  margin: 30px auto;
+  background-color: rgba(0,0,0,0.5);
+  padding: 50px;
+  color: white;
+  border-radius: 10px;
+}
+
+.logo {
+  width: 200px;
+  margin: 0 auto;
+  display: block;
+}
+
+h1 {
+  color: #70de12;
+  text-align: center;
+}
+
+.menu {
+  background-color: #70de12;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.status {
+  height: 30px;
+  border-radius: 10px;
+}
+
+.medium {
+  width: 60%;
+  background-color: orange;
+}
+
+.low {
+  width: 30%;
+  background-color: red;
+}
+
+.high {
+  width: 100%;
+  background-color: green;
+}
